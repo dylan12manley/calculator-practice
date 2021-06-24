@@ -1,3 +1,4 @@
+// Variables
 let operator_value = null;
 let total = null;
 let num_array = new Array();
