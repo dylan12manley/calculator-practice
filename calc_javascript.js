@@ -87,6 +87,7 @@ function totalcalc(num1, num2, operator){
         totalcalc(num1, num2, tempoper);
     }
     return total.toFixed(1);
+    // The toFixed() method formats a number using fixed-point notation. mozilla
 }
 
 function button_clear(){
